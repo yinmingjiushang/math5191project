@@ -18,4 +18,5 @@ This project explores the Frank-Wolfe (FW) algorithm and its applications in con
 ## Run
 
 python src/frank_wolfe_algorithm.py
+
 python src/frank_wolfe_limitations_example.py
