@@ -1,6 +1,6 @@
 # math5191_project
 
-# Frank-Wolfe Algorithm and High-Degree Polynomial Optimization
+# Frank-Wolfe Algorithm
 
 This project explores the Frank-Wolfe (FW) algorithm and its applications in convex optimization, with a focus on its limitations when applied to high-degree polynomial optimization problems.
 
